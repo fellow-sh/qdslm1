@@ -1,4 +1,5 @@
 .vscode
+inspiration/
 
 # Ignore datasets and logs
 *.csv
