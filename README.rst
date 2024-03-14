@@ -22,3 +22,11 @@ the objective of this project.
 **This is a work-in-progress project!** Do not expect this to be
 deployed within the near future (or at all usable). My code will be
 messy!
+
+Why GNU Public License?
+-----------------------
+
+Since this is more of a testbed for a future official release model,
+the model implemented here will be imperfect and clunky. So, in spirit
+of maintaining transparency throughout the development of this project,
+all forks of QDLSM should also remain transparent.
